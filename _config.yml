@@ -4,21 +4,22 @@ markdown: redcarpet
 
 highlighter: false# Site settings
 
-title: "Mediator"
+title: "sellmaggots"
 
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Yes,I prefer Appolo
 
 
 email: casamila@qq.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
+
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 
 name: sellmaggots 
-author: 'Dirk Fabisch'
+author: 'Sellmaggots'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5

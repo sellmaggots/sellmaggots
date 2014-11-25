@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "随感1"
+date:   2014-11-9  
+categories: feelings
+tags: observation 
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+---
+软弱务虚之人不能在现实世界中获得满足感与认同感，只好转身寻找虚无梦幻之庇护，沉湎于梦海癔沼，唯当现实之刺眼阳光偶尔照射到此醉生梦死之徒的皮肤时，那灼热感提醒他自己似乎还存在着，心里针刺般的痛。出于潜意识里对疼痛感的畏惧，他但愿沉醉不愿醒，只好再次退却，后退一步堕躲入另一个幻境，一片阳光无法企及的阴翳。
+       

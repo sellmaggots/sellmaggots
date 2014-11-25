@@ -1,82 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mediator</title>
-    <description>A Jekyll theme - Medium inspired
+    <title>sellmaggots</title>
+    <description>Yes,I prefer Appolo
 </description>
     <link>http://myblog.***.***/</link>
     <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 25 Nov 2014 15:50:26 +0800</pubDate>
-    <lastBuildDate>Tue, 25 Nov 2014 15:50:26 +0800</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2014 23:14:10 +0800</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2014 23:14:10 +0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
-        <title>first blog</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and ediMarkdown 是一个 Web 上使用的文本到HTML的转换工具,可以通过简单、易读易写的文本格式生成结构化的HTML文档。目前 Stackoverflow 网站使用这种格式来提问。 一个文本...Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+        <title>先天不足的语言表达能力</title>
+        <description>&lt;p&gt;很多时候我都深刻的怀疑自己的语言中枢长到右脑去了。可以理解别人，却实在难以饱满的表达自己。从小就厌恶作文之类的东西，特别羡慕那些天赋文才妙笔生花的人。即使心里有再多再细腻的情感再新奇的想法亟待输出，却。。。无语凝噎。&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;def print_hi(name)
-  puts &amp;quot;Hi, #{name}&amp;quot;
-end
-print_hi(&amp;#39;Tom&amp;#39;)
-#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;举个栗子，看看我写的这些话吧：“这个世界所蕴含的无比丰富的可能性和无比多元的存在，总是让我满心欢喜又满心惆怅，hopeful and hopeless.这该死的不确定性。伤心之时，正是当你最想实现的可能性的不可实现性占据主导地位而使一个开放的状态变为封闭的结论之时。”同学觉得抽象难懂，我觉得形式上实在缺乏美感，像是一个拙劣的译者所翻译的，而不像是在运用母语。&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;天赋问题谁都无能为力。先天不足架不住我有强烈的表达欲阿，潜意识里探索着各种方式来表明我的态度，所以理所当然助成了我的一些在别人眼里的奇怪之处吧。周围亦有人视我奇葩，虽无恶意，我看他们却真是少见多怪。我一向觉得自己再正常不过了。&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&amp;lt;footer class=&amp;quot;site-footer&amp;quot;&amp;gt;
- &amp;lt;a class=&amp;quot;subscribe&amp;quot; href=&amp;quot;/feed.xml&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;tooltip&amp;quot;&amp;gt; &amp;lt;i class=&amp;quot;fa fa-rss&amp;quot;&amp;gt;&amp;lt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
-  &amp;lt;div class=&amp;quot;inner&amp;quot;&amp;gt;a
-   &amp;lt;section class=&amp;quot;copyright&amp;quot;&amp;gt;All content copyright &amp;lt;a href=&amp;quot;mailto:casamila@qq.com&amp;quot;&amp;gt;sellmaggots&amp;lt;/a&amp;gt; &amp;amp;copy; 2014 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;
-   &amp;lt;section class=&amp;quot;poweredby&amp;quot;&amp;gt;Made with &amp;lt;a href=&amp;quot;http://jekyllrb.com&amp;quot;&amp;gt; Jekyll&amp;lt;/a&amp;gt;&amp;lt;/section&amp;gt;
-  &amp;lt;/div&amp;gt;
-&amp;lt;/footer&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;发展多元并专属的表达形式是我今后之重要任务。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 30 Aug 2014 22:34:25 +0800</pubDate>
-        <link>http://myblog.***.***/jekyll/update/2014/08/30/fanqu.html</link>
-        <guid isPermaLink="true">http://myblog.***.***/jekyll/update/2014/08/30/fanqu.html</guid>
+        <pubDate>Thu, 20 Nov 2014 00:00:00 +0800</pubDate>
+        <link>http://myblog.***.***/feelings/2014/11/20/6.html</link>
+        <guid isPermaLink="true">http://myblog.***.***/feelings/2014/11/20/6.html</guid>
         
-        <category>featured</category>
+        <category>observation</category>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>feelings</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>随感2</title>
+        <description>&lt;p&gt;有一种人，据我观察，对规矩的坚决遵守乃日常生活之重要组成。行事必合乎规范 心乃始安，丝毫不敢逾矩。然而他们奉如圣旨的戒律并非自己为自己所立之道德准则，而是世俗礼法。但是卑劣的人性阿 它渴望的只有利益，于是乎你会看到人们利用自己灵光的头脑和聪明才智在世俗规范里机关算尽锱铢必较，亦孜孜不倦不亦乐乎，并欣喜的告诉自己：“我没有犯规哦！没人能拿我怎么样。”&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;def print_hi(name)
-  puts &amp;quot;Hi, #{name}&amp;quot;
-end
-print_hi(&amp;#39;Tom&amp;#39;)
-#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&amp;lt;footer class=&amp;quot;site-footer&amp;quot;&amp;gt;
- &amp;lt;a class=&amp;quot;subscribe&amp;quot; href=&amp;quot;/feed.xml&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;tooltip&amp;quot;&amp;gt; &amp;lt;i class=&amp;quot;fa fa-rss&amp;quot;&amp;gt;&amp;lt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
-  &amp;lt;div class=&amp;quot;inner&amp;quot;&amp;gt;a
-   &amp;lt;section class=&amp;quot;copyright&amp;quot;&amp;gt;All content copyright &amp;lt;a href=&amp;quot;mailto:casamila@qq.com&amp;quot;&amp;gt;sellmaggots&amp;lt;/a&amp;gt; &amp;amp;copy; 2014 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;
-   &amp;lt;section class=&amp;quot;poweredby&amp;quot;&amp;gt;Made with &amp;lt;a href=&amp;quot;http://jekyllrb.com&amp;quot;&amp;gt; Jekyll&amp;lt;/a&amp;gt;&amp;lt;/section&amp;gt;
-  &amp;lt;/div&amp;gt;
-&amp;lt;/footer&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;他们从不去质疑清规戒律的合理性。他们会大声反驳你：“质疑这个顶JB用？你可以改变吗？你所能做的只是臣服于权威来保证自己的利益最大化罢了。”他们茶余饭后的一大乐趣就是聚在一起共同嘲笑不合礼法之人的奇葩事迹了。当真挚的情感与礼法发生冲突时，那么错的一定是情感了，只有合乎礼法的情感才是正确的情感嘛。于是，当看到自己本应拥有的权利被淫威所剥夺时，生发出的不是愤怒与勇毅，而是无动于衷。令人心寒。人心竟卑贱至此。&lt;/p&gt;
 </description>
-        <pubDate>Fri, 29 Aug 2014 22:34:25 +0800</pubDate>
-        <link>http://myblog.***.***/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://myblog.***.***/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 17 Nov 2014 01:43:22 +0800</pubDate>
+        <link>http://myblog.***.***/feelings/2014/11/17/5.html</link>
+        <guid isPermaLink="true">http://myblog.***.***/feelings/2014/11/17/5.html</guid>
         
-        <category>featured</category>
+        <category>observation</category>
         
         
-        <category>jekyll</category>
+        <category>feelings</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>随感1</title>
+        <description>&lt;p&gt;软弱务虚之人不能在现实世界中获得满足感与认同感，只好转身寻找虚无梦幻之庇护，沉湎于梦海癔沼，唯当现实之刺眼阳光偶尔照射到此醉生梦死之徒的皮肤时，那灼热感提醒他自己似乎还存在着，心里针刺般的痛。出于潜意识里对疼痛感的畏惧，他但愿沉醉不愿醒，只好再次退却，后退一步堕躲入另一个幻境，一片阳光无法企及的阴翳。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Nov 2014 00:00:00 +0800</pubDate>
+        <link>http://myblog.***.***/feelings/2014/11/09/4.html</link>
+        <guid isPermaLink="true">http://myblog.***.***/feelings/2014/11/09/4.html</guid>
+        
+        <category>observation</category>
+        
+        
+        <category>feelings</category>
+        
+      </item>
+    
+      <item>
+        <title>MBTI8维概念介绍</title>
+        <description>&lt;p&gt;转自———— 萧木爻&lt;/p&gt;
+
+&lt;p&gt;隐约记得8维这个描述还没有人翻译，勉强翻译，如有重复，望告之，以便删除。翻译不当之处，欢迎多指正，所有资料来源于http://www.cognitiveprocesses.com/。 &lt;/p&gt;
+
+&lt;p&gt;SE
+Extraverted Sensing occurs when we become aware of what is in the physical world in rich detail. We may be drawn to act on what we experience to get an immediate result. We notice relevant facts and occurrences in a sea of data and experiences, learning all the facts we can about the immediate context or area of focus and what goes on in that context. An active seeking of more and more input to get the whole picture may occur until all sources of input have been exhausted or something else captures our attention. Extraverted Sensing is operating when we freely follow exciting physical impulses or instincts as they come up and enjoy the thrill of action in the present moment. A oneness with the physical world and a total absorption may exist as we move, touch, and sense what is around us. The process involves instantly reading cues to see how far we can go in a situation and still get the impact we want or respond to the situation with presence.&lt;/p&gt;
+
+&lt;p&gt;SE出现在我们注意到物质世界丰富的细节的时候。我们可能被那些能立刻得到结果的体验所吸引。我们注意到海量的数据和经验里相关的事实和事件，学习所有的在周遭环境中我们可以获得的或者在这环境中的重点和继续发生的事实。我们会一直努力寻找更多的碎片来拼凑出整幅画卷，直到这幅画完成或者被其他事物吸引。当我们感受到那些激动人心的身体冲动或本能，我们自在的遵循这些冲动和本能并享受在当下的行动快感，这正是SE在运作。当我们移动、触摸、感受我们周围的事物的时候，我们可以与周遭融为一体。这一过程包含立即理解暗示来看看我们在这种形式下能走多远依然能得到我们想要的刺激或者回应现场的情况。
+SI
+Introverted Sensing often involves storing data and information, then comparing and contrasting the current situation with similar ones. The immediate experience or words are instantly linked with the prior experiences, and we register a similarity or a difference—for example, noticing that some food doesn’t taste the same or is saltier than it usually is. Introverted Sensing is also operating when we see someone who reminds us of someone else. Sometimes a feeling associated with the recalled image comes into our awareness along with the information itself. Then the image can be so strong, our body responds as if reliving the experience. The process also involves reviewing the past to draw on the lessons of history, hindsight, and experience. With introverted Sensing, there is often great attention to detail and getting a clear picture of goals and objectives and what is to happen. There can be a oneness with ageless customs that help sustain civilization and culture and protect what is known and long-lasting, even while what is reliable changes.&lt;/p&gt;
+
+&lt;p&gt;SI常常涉及存储数据和信息，然后跟当前情况类似的比较和对比等过程。眼前的经验和言语总是立刻和先前的经验联系起来，我们记录它们的相似性或差异，例如，注意到一些口味不尽相同或比通常的咸。当我们看到一个人谁想起另一个人的时候，SI也同样在运作。有时候相关的情感会伴随着我们的回忆一起出现。这种回忆是如此的强大，让我们有昨日重现之感。这个过程还包括回顾过去吸取历史，事后的教训和经验。SI的作用会让我们十分注重细节，得到目标，目的以及它们是如何产生的清晰画面。一个永恒的习俗有助于维持文明和文化，同时，也保护那些众所周知的、长存的，甚至当他们早已不可信的时候。&lt;/p&gt;
+
+&lt;p&gt;NE
+Extraverted iNtuiting involves noticing hidden meanings and interpreting them, often entertaining a wealth of possible interpretations from just one idea or interpreting what someone’s behavior really means. It also involves seeing things “as if,” with various possible representations of reality. Using this process, we can juggle many different ideas, thoughts, beliefs, and meanings in our mind at once with the possibility that they are all true. This is like weaving themes and threads together. We don’t know the weave until a thought thread appears or is drawn out in the interaction of thoughts, often brought in from other contexts. Thus a strategy or concept often emerges from the here-and-now interactions, not appearing as a whole beforehand. Using this process we can really appreciate brainstorming and trust what emerges, enjoying imaginative play with scenarios and combining possibilities, using a kind of cross-contextual thinking. Extraverted iNtuiting also can involve catalyzing people and extemporaneously shaping situations, spreading an atmosphere of change through emergent leadership.&lt;/p&gt;
+
+&lt;p&gt;NE包含注意到隐含的意义并解释他们，常常喜欢从仅仅一个想法引发的大量可能的解释或者解释某个人行为背后真正的含义。他也包含注意到“好像”，各种可能的事实的表现方式。使用这过程，我们能立刻整合我们脑海中的不同观点、想法、信念、意义，使他们可能都是正确的。这就像将主题和线索编织一起一样。除非所有的线索出现或者找出想法间的相互关联（常常是从其他情景得到启发），否则我们不知道应该怎么编织。因此那些策略或者概念是从此时此地的相互作用中显露，并非事先就存在。使用这一过程，我们能享受头脑风暴和相信那些浮出水面的，用穿越前后联系的思维方式，富有想象力的考虑各种场景和可能性。NE也包括促进人们和形成临时的态势，通过危机领导散播改变的气氛。&lt;/p&gt;
+
+&lt;p&gt;NI
+Introverted iNtuiting involves synthesizing the seemingly paradoxical or contradictory, which takes understanding to a new level. Using this process, we can have moments when completely new, unimagined realizations come to us. A disengagement from interactions in the room occurs, followed by a sudden “Aha!” or “That’s it!” The sense of the future and the realizations that come from introverted iNtuiting have a sureness and an imperative quality that seem to demand action and help us stay focused on fulfilling our vision or dream of how things will be in the future. Using this process, we might rely on a focal device or symbolic action to predict, enlighten, or transform. We could find ourselves laying out how the future will unfold based on unseen trends and telling signs. This process can involve working out complex concepts or systems of thinking or conceiving of symbolic or novel ways to understand things that are universal. It can lead to creating transcendent experiences or solutions.&lt;/p&gt;
+
+&lt;p&gt;NI包括综合看上去自相矛盾或者矛盾的，这能将理解提高到新的水平。使用这个过程，我们能感觉到一个全新的、从来没想到过的认知出现在脑海。会突然叫到“ aha!”或者“就是这样”，然后从繁杂的事件关系中解脱出来。从NI来的对未来和现实的认知似乎要求采取的行动是确实和必须的，并且帮助我们集中注意力关注我们的想象或者想象事物未来的怎样发展。使用这一过程，我们可能依靠聚焦的手段或者象征的方式去预测、启发、改变。我们可以发现我们能基于那些看不到的趋势和显示的迹象设计出未来将如何展现。这一过程包括弄懂复杂的概念或者思考系统或者象征的构想或者新颖的方式去理解普遍的事物。这也能导致创造卓越的经历或解决方式。
+TE
+Contingency planning, scheduling, and quantifying utilize the process of extraverted Thinking. Extraverted Thinking helps us organize our environment and ideas through charts, tables, graphs, flow charts, outlines, and so on. At its most sophisticated, this process is about organizing and monitoring people and things to work efficiently and productively. Empirical thinking is at the core of extraverted Thinking when we challenge someone’s ideas based on the logic of the facts in front of us or lay out reasonable explanations for decisions or conclusions made, often trying to establish order in someone else’s thought process. In written or verbal communication, extraverted Thinking helps us easily follow someone else’s logic, sequence, or organization. It also helps us notice when something is missing, like when someone says he or she is going to talk about four topics and talks about only three. In general, it allows us to compartmentalize many aspects of our lives so we can do what is necessary to accomplish our objectives.&lt;/p&gt;
+
+&lt;p&gt;TE包括偶然的计划、日程和量化消耗。TE帮助我们通过图、表格、图表、流程图、提纲等等来组织我们周围的环境和想法。它最紧密的，这一过程是关于组织和监控人和事情，使他们具有效率和富有成果。TE的核心是我们用符合逻辑的事实来质疑某人的观点，或者对决定或者结论的得出提出合理的解释，常常试图建立一个思考过程的顺序。在书面或者口头交流中，TE帮助我们很容易的跟随某人的逻辑、顺序、组织。它也帮助我们注意到过错，比如发现当一个人说他或者她要谈四点，但只说了三个。一般说来，它使我们规划我们的生活的各个方面，使我们能做完成目标所必须做的事情。&lt;/p&gt;
+
+&lt;p&gt;TI
+Introverted Thinking often involves finding just the right word to clearly express an idea concisely, crisply, and to the point. Using introverted Thinking is like having an internal sense of the essential qualities of something, noticing the fine distinctions that make it what it is and then naming it. It also involves an internal reasoning process of deriving subcategories of classes and sub-principles of general principles. These can then be used in problem solving, analysis, and refining of a product or an idea. This process is evidenced in behaviors like taking things or ideas apart to figure out how they work. The analysis involves looking at different sides of an issue and seeing where there is inconsistency. In so doing, we search for a “leverage point” that will fix problems with the least amount of effort or damage to the system. We engage in this process when we notice logical inconsistencies between statements and frameworks, using a model to evaluate the likely accuracy of what’s observed.&lt;/p&gt;
+
+&lt;p&gt;TI包括找到最恰当的词去清晰表达一个想法，简洁的、干净的、切中要害的。使用TI像有事物内部基本的性质的内部认知，注意到精微的区别让它原本是什么就是什么并命名。它也包括深层分析品种的亚类和一般规则的子原则的过程。这些能拥有问题的解决、分析，和定义成果或者一个想法。这个过程在行为上会表现出喜欢观察事物或者想法，分别指出它们是如何工作的。分析包括研究问题的不同面和观察什么地方不一致。在如此做的时候，我们寻找到对系统最少影响或者损害的“杠杆点”。当我们注意到陈述和参照标准间逻辑不一致的时候，我们参与这一过程，使用模型来评估发现可信的准确性。&lt;/p&gt;
+
+&lt;p&gt;FE
+The process of extraverted Feeling often involves a desire to connect with (or disconnect from) others and is often evidenced by expressions of warmth (or displeasure) and self-disclosure. The “social graces,” such as being polite, being nice, being friendly, being considerate, and being appropriate, often revolve around the process of extraverted Feeling. Keeping in touch, laughing at jokes when others laugh, and trying to get people to act kindly to each other also involve extraverted Feeling. Using this process, we respond according to expressed or even unexpressed wants and needs of others. We may ask people what they want or need or self-disclose to prompt them to talk more about themselves. This often sparks conversation and lets us know more about them so we can better adjust our behavior to them. Often with this process, we feel pulled to be responsible and take care of others’ feelings, sometimes to the point of not separating our feelings from theirs. We may recognize and adhere to shared values, feelings, and social norms to get along.&lt;/p&gt;
+
+&lt;p&gt;FE常常包括渴望与其他人保持（或者断开）联系，并常常通过温和（或者不悦）的表情和自我表露来显示。“社交礼节”，例如礼貌、周到、友好、体贴、恰当，常常包括在FE这一过程中。保持接触，开玩笑的时候和别人一起大笑，尝试让人们友好相处也包含在FE中。使用这一过程，我们满足他人表达出的甚至是没有表达出的要求和需要。我们可以询问他人的要求或者需要或者自我表露，促使他们更多的谈论自己。这常常引发交流，让我们更加相互了解，以让我们能更好的调节自己对他们的行为。常常伴随这过程，我们对负责和满足他人的的感情感觉吃力，有时候，关键在于我们未将我们的感情与他人的情感区分开来。我们通过认可和坚持分享价值观、情感、和社会规范来友好相处。&lt;/p&gt;
+
+&lt;p&gt;FI
+It is often hard to assign words to the values used to make introverted Feeling judgments since they are often associated with images, feeling tones, and gut reactions more than words. As a cognitive process, it often serves as a filter for information that matches what is valued, wanted, or worth believing in. There can be a continual weighing of the situational worth or importance of everything and a patient balancing of the core issues of peace and conflict in life’s situations. We engage in the process of introverted Feeling when a value is compromised and we think, “Sometimes, some things just have to be said.” On the other hand, most of the time this process works “in private” and is expressed through actions. It helps us know when people are being fake or insincere or if they are basically good. It is like having an internal sense of the “essence” of a person or a project and reading fine distinctions among feeling tones.
+FI很难用语言来表达它的价值，因为他们常常和想象、感觉基调联系起来，比言语获得更多反应。作为一个认知过程，他常常象一个过滤器一样，将有价值的、需要的、值得相信的筛选出来。不断的衡量情形的价值或者所有事情的重要性、生活中的和睦和冲突的核心问题的忍耐平衡。当危及到价值，我们想“有时候，一些事情只是不得不说”的时候，正是FI正在运作。另一方面，大多数时候这一过程是在私下运作的，并通过行为来表达。它帮助我们知道别人作假或者不真诚或者他们本质上是好的。它有着一个人或者计划 “本质”的深层认知，理解感觉基调中精微的区别。 &lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Nov 2014 00:00:00 +0800</pubDate>
+        <link>http://myblog.***.***/feelings/2014/11/05/fanqu.html</link>
+        <guid isPermaLink="true">http://myblog.***.***/feelings/2014/11/05/fanqu.html</guid>
+        
+        <category>mbti</category>
+        
+        <category>psychology</category>
+        
+        
+        <category>feelings</category>
+        
+      </item>
+    
+      <item>
+        <title>四大工具Si Ni Ti Fi</title>
+        <description>&lt;p&gt;Si：超级移动硬盘 what it was？
+很多人以为只有Ni主导的人才会有一种”大感觉“，其余的人都鼠目寸光，实则不然。
+Si主导的人也有很宏大的眼光，而且他们的实力随着年岁的增长会越来越强大。
+Si会将经历过的事情变成主观印象，集中处理之后分类储存。他们终其一生的目标就是不断缩小未知的领域。”七十而从心所欲不逾矩“，说的就是他们。经验主义的强大。 &lt;/p&gt;
+
+&lt;p&gt;Ni：超级CPU what it means？
+曾有人将Ni与Si相提并论，说成是”对内提取信息“，但实际上这不太适合Ni。
+Ni的最强大的功能是”赋予意义“，比如易经六十四卦，每一卦都有特殊的一个结构、一个抽象图式，而Ni强大的人则善于给这种”玄之又玄“的概念赋予解释。
+懂得越多发现不知道的越多，这是Ni常有的感受。一方面因为Ni将注意力集中在未知，一方面因为Ni老是不做出”此时此地“的判断。这导致Ni成了神秘主义的代言词。
+许多人分不清楚Ni和Ti的区别：Ni是CPU，可以同时运转多个程序，但并不有一个清晰的目的；Ti则是运算器。 &lt;/p&gt;
+
+&lt;p&gt;Ti：超级运算器 analyse——
+Ti的熟练使用者会有一种心理习惯：在讨论之前先限定概念的范围。所以Ti和Ni基本上没法讨论。Ni热爱”大概念“的包容性，喜欢老子的”道“、黑格尔的”绝对精神“，喜欢那”不可说的东西“。而Ti则十分讨厌Ni将概念”任意变形“的疯狂行为。Ti会说，因为所以。Ti会有一个思考的目标，而不惮推理的过程有多么复杂。典型的Ti会喜欢数学和经典物理学，因为这类学科都有着严格限定的基本命题。
+最后说一句，Ti之所以能在复杂的推理过程中弄清方向，完全在于他们将注意力集中在”一个东西能做什么“（概念的外延）而不是”一个东西意味着什么“（概念的内涵）。后者是Ni的强项。
+再次强调：理论上和实际上均不可能有Ni、Ti都很强大的人。不是因为别的原因，而是因为两者的注意力方向是相反的。 &lt;/p&gt;
+
+&lt;p&gt;Fi：一个奇特的功能……
+由于我不是Fi，所以很难对这个功能有什么体会。许多人觉得Ni难以理解，实际上难理解的是Fi。荣格说的”静水则深“确实很能形容内倾情感型的人格。
+从作用方式上讲，Fi跟Ti有着相似之处。只不过作用的对象由”逻辑“换成了”人性“。
+最让我感动的是，Fi会对道德和审美的问题有着深入的思考，因此毫无疑问，真正纯粹的艺术家当然是Fi。以”分析家“自居的Ti完全避讳对艺术做出评价（伪INTP们不要急着聒噪和辩护，真正的INTP知道我在说什么），Ni只能称得上是”概念家“或者”意义理论家“，Si感兴趣的是”技巧“，Ne则是一堆”拼凑的创意“，Se是天生的”表演家“，Fe则是擅长沟通表达的”礼仪专家“。
+唯有Fi是建立着一种纯粹内部的道德观和审美观，比如梵高。
+对Fi有着这么高的评价并非有什么铁证，仅仅因为我是Ni，对不清楚的部分最感兴趣，静水则深，静水则深…… &lt;/p&gt;
+
+&lt;p&gt;补充：关于Ni和Ti
+感知：信息收集（打地基）
+判断：信息组织（盖楼）
+之所以要扯这个“信息组织”是因为八认知“平等讨论各种功能”给我一种“对称”的感觉，仿佛八认知是八个平等的兄弟姐妹，从你所说的“四根管道”可以看出这种理解倾向。
+但这十分迷惑人，比如Ni与Ti都给人“抽象”的感觉，但实际上两者是不同的。
+所以我的意见是，学习MBTI的第一要务就是理解清楚“感知”和“判断”的意思。
+“感知”和“判断”的关系有点像是打地基和盖楼。
+比如心理学家、哲学家多Ni，他们其实是在不断地“换地基”，比如后一个哲学家会用新的概念全盘替代前一个哲学家，带来一种新的哲学。这就是Ni不断修改概念给我的感觉。
+而数学家、科学家多Ti，他们不在乎一个概念是否合适，他们在意的是用某些概念建立一个庞大的结构（盖楼）。Ti的本质是因为所以，即系统前后一致，注重的是概念与概念之间，至于一个概念本身的含义，他们不在乎。比如i平方等于1，i是个虚数，数不够用了他们就添加一个新的定义就行了，他们不在乎这个i是个什么东西，他们只管i能用来搞什么。 &lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Nov 2014 00:00:00 +0800</pubDate>
+        <link>http://myblog.***.***/psychology/2014/11/01/nini.html</link>
+        <guid isPermaLink="true">http://myblog.***.***/psychology/2014/11/01/nini.html</guid>
+        
+        <category>mbti</category>
+        
+        <category>psychology</category>
+        
+        
+        <category>psychology</category>
+        
+      </item>
+    
+      <item>
+        <title>楼道里的Z同学  </title>
+        <description>&lt;p&gt;Z的表情总是无怒无喜，从没剧烈的情绪变化，就那么目不斜视心无旁骛的走在路上，我猜测周围陌生人在她眼里恐怕都是一颗颗大白菜吧。不安、局促、尴尬、好奇、热情、蒙娜丽莎式的莫名微笑这些于我来说家常便饭般的情绪从未在她身上出现过。或许是我从未见过。或许是她从不让陌生人见到。这是刻意表现出的冷漠，还是天性坚硬？这是面具还是本来面目？&lt;/p&gt;
+
+&lt;p&gt;我最讨厌这种人了。我会幻想把我的洗脚水都倒在她身上她会作何反应呢？她那不起波澜的脸色会如何变化呢？不过我可不敢这样做。但是我真想介入这种人的情绪啊，打破她冷酷的距离感十足的平静！&lt;/p&gt;
+
+&lt;p&gt;我的特点似乎与她相反，我很容易被触动。以前我真希望我也能有此高贵冷艳又酷炫狂拽的特质，多有神秘感阿，经过痛苦尝试后我才得出结论，人还是不要装B才好。作茧自缚。不伦不类。面目可憎。有句话说的好，皆根其情 不由矫枉。&lt;/p&gt;
+
+&lt;p&gt;昨天在很多人面前，我差点滑了一跤，那么滑稽，那么突然，Z及同学拼命抑制还是忍不住笑意。本来当众出丑让我有点懊恼，但转念想到能让大家发出如此世俗的笑，甚至打破了Z高傲的平静，这不是无意中达成了我的心愿吗？我这也算是直接介入了陌生人的情绪吧，这种主动性虽然无意识，仍然有意思。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Aug 2013 00:00:00 +0800</pubDate>
+        <link>http://myblog.***.***/observation/2013/08/25/1.html</link>
+        <guid isPermaLink="true">http://myblog.***.***/observation/2013/08/25/1.html</guid>
+        
+        <category>observation</category>
+        
+        
+        <category>observation</category>
         
       </item>
     

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediator</title>
+    <description>A Jekyll theme - Medium inspired
+</description>
+    <link>http://myblog.***.***/</link>
+    <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 14 Nov 2014 21:44:06 +0800</pubDate>
+    <lastBuildDate>Fri, 14 Nov 2014 21:44:06 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>Fanqu</title>
+        <description>&lt;hr&gt;
+
+&lt;p&gt;layout: post
+title:  &amp;quot;Welcome to Jekyll!&amp;quot;
+date:   2014-08-29 14:34:25
+categories: jekyll update
+tags: featured&lt;/p&gt;
+
+&lt;h2&gt;image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg&lt;/h2&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and ediMarkdown 是一个 Web 上使用的文本到HTML的转换工具,可以通过简单、易读易写的文本格式生成结构化的HTML文档。目前 Stackoverflow 网站使用这种格式来提问。 一个文本...Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;def print_hi(name)
+  puts &amp;quot;Hi, #{name}&amp;quot;
+end
+print_hi(&amp;#39;Tom&amp;#39;)
+#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&amp;lt;footer class=&amp;quot;site-footer&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;subscribe&amp;quot; href=&amp;quot;/feed.xml&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;tooltip&amp;quot;&amp;gt; &amp;lt;i class=&amp;quot;fa fa-rss&amp;quot;&amp;gt;&amp;lt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+  &amp;lt;div class=&amp;quot;inner&amp;quot;&amp;gt;a
+   &amp;lt;section class=&amp;quot;copyright&amp;quot;&amp;gt;All content copyright &amp;lt;a href=&amp;quot;mailto:a-mail@mail.mail&amp;quot;&amp;gt;Dirk Fabisch&amp;lt;/a&amp;gt; &amp;amp;copy; 2014 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;
+   &amp;lt;section class=&amp;quot;poweredby&amp;quot;&amp;gt;Made with &amp;lt;a href=&amp;quot;http://jekyllrb.com&amp;quot;&amp;gt; Jekyll&amp;lt;/a&amp;gt;&amp;lt;/section&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/footer&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sat, 30 Aug 2014 00:00:00 +0800</pubDate>
+        <link>http://myblog.***.***/2014/08/30/fanqu.html</link>
+        <guid isPermaLink="true">http://myblog.***.***/2014/08/30/fanqu.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;def print_hi(name)
+  puts &amp;quot;Hi, #{name}&amp;quot;
+end
+print_hi(&amp;#39;Tom&amp;#39;)
+#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&amp;lt;footer class=&amp;quot;site-footer&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;subscribe&amp;quot; href=&amp;quot;/feed.xml&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;tooltip&amp;quot;&amp;gt; &amp;lt;i class=&amp;quot;fa fa-rss&amp;quot;&amp;gt;&amp;lt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+  &amp;lt;div class=&amp;quot;inner&amp;quot;&amp;gt;a
+   &amp;lt;section class=&amp;quot;copyright&amp;quot;&amp;gt;All content copyright &amp;lt;a href=&amp;quot;mailto:a-mail@mail.mail&amp;quot;&amp;gt;Dirk Fabisch&amp;lt;/a&amp;gt; &amp;amp;copy; 2014 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;
+   &amp;lt;section class=&amp;quot;poweredby&amp;quot;&amp;gt;Made with &amp;lt;a href=&amp;quot;http://jekyllrb.com&amp;quot;&amp;gt; Jekyll&amp;lt;/a&amp;gt;&amp;lt;/section&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/footer&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+        <pubDate>Fri, 29 Aug 2014 22:34:25 +0800</pubDate>
+        <link>http://myblog.***.***/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://myblog.***.***/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
